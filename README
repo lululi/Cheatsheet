@@ -1,0 +1,6 @@
+scrape www.cheat_sheet.org with scrapy
+scraped data:
+	category
+	link
+	title
+The scraped data has been processed and only the items which have a local copy on cheat_sheet.org website have been saved.
